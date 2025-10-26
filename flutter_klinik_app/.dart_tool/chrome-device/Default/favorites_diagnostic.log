@@ -1,0 +1,55 @@
+2025-10-16 00:05:14.786: [INFO] VisibilityChanged: 0
+2025-10-16 00:05:14.904: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.908: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.911: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.914: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.917: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.919: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.921: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.925: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.927: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.929: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.931: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2025-10-16 00:05:14.948: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:14.948: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:14.948: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:14.949: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:14.949: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2025-10-16 00:05:14.949: [INFO] OnDoneLoading sync enabled: 0
+2025-10-16 00:05:15.264: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2025-10-16 00:05:15.268: [INFO] Primary account changed.
+2025-10-16 00:05:15.268: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2025-10-16 00:05:15.278: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2025-10-16 00:05:15.898: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2025-10-16 00:05:22.243: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.244: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.244: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.245: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.245: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.245: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.245: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.246: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.246: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.246: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.247: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.247: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.248: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.248: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:22.248: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:05:24.223: [INFO] Sync initialization duration: 8155ms
+2025-10-16 00:18:47.134: [INFO] VisibilityChanged: 0
+2025-10-16 00:18:47.280: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:18:47.281: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:18:47.282: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:18:47.282: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-16 00:18:47.282: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2025-10-16 00:18:47.282: [INFO] OnDoneLoading sync enabled: 1
+2025-10-16 00:18:51.472: [INFO] Sync initialization duration: 2484ms
+2025-10-23 02:20:43.633: [INFO] VisibilityChanged: 0
+2025-10-23 02:20:43.715: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-23 02:20:43.715: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-23 02:20:43.715: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-23 02:20:43.715: [INFO] BookmarkNodeAdded, ABU: 0
+2025-10-23 02:20:43.715: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2025-10-23 02:20:43.715: [INFO] OnDoneLoading sync enabled: 1
+2025-10-23 02:20:46.660: [INFO] Sync initialization duration: 1871ms

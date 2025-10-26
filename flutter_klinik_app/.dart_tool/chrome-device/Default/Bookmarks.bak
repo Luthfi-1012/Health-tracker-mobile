@@ -1,0 +1,292 @@
+{
+   "checksum": "700c1d16c5ee114f20ea37b2f4ad8f27",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13405047527282286",
+            "date_last_used": "0",
+            "guid": "26604a49-a86d-4f99-ab7b-1050a8a6e410",
+            "id": "30",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13405047527281757",
+            "date_last_used": "0",
+            "guid": "1c0a4ee2-16c5-46f6-9dca-0acd4c6feb35",
+            "id": "29",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13405047527281152",
+            "date_last_used": "0",
+            "guid": "3a3649a0-75bc-40fe-9095-a636c30395a4",
+            "id": "28",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13405047527280325",
+            "date_last_used": "0",
+            "guid": "deb100f7-6414-412c-a601-a9d8acb07dd6",
+            "id": "27",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13235176536960811",
+               "date_last_used": "0",
+               "guid": "14f964f4-8067-45ee-91a7-3f9ba45f3c45",
+               "id": "15",
+               "name": "ASUS Homepage",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.asus.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13235176536962818",
+               "date_last_used": "0",
+               "guid": "657c4942-d26a-4004-bf3d-0c7d4a87a00f",
+               "id": "16",
+               "name": "ASUS Member",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://account.asus.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13237524048784166",
+            "date_last_used": "0",
+            "date_modified": "13237524048784166",
+            "guid": "4c3e7db4-d1d3-481e-b8f9-7948bc7e9b03",
+            "id": "14",
+            "name": "ASUS E-Service",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13235176536968323",
+            "date_last_used": "0",
+            "guid": "67bc392f-253d-4930-a76c-725cb51e026d",
+            "id": "17",
+            "name": "Bing",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142",
+            "visit_count": 0
+         }, {
+            "date_added": "13287762847520087",
+            "date_last_used": "0",
+            "guid": "67ad31e6-e8a8-4675-bf7d-4af67713c36f",
+            "id": "18",
+            "name": "WhatsApp",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.whatsapp.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13292762862369441",
+            "date_last_used": "0",
+            "guid": "48323ac8-18ad-4d7a-a2f6-a5cdb51e3a9d",
+            "id": "19",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "13292762862373936",
+            "date_last_used": "0",
+            "guid": "1f754cc2-215c-4c1d-89d8-38661384da90",
+            "id": "20",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13292762862370720",
+            "date_last_used": "0",
+            "guid": "d1642823-aa58-4fdc-8779-d590f39a5587",
+            "id": "21",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13316567776874952",
+            "date_last_used": "0",
+            "guid": "7b797762-3605-4d6a-950f-7a475a3e3024",
+            "id": "22",
+            "name": "(1224) YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13319467912039749",
+            "date_last_used": "0",
+            "guid": "0c8b2db7-3ea9-43ee-ac10-bfd32d58109a",
+            "id": "23",
+            "name": "(471) 40 KG AYAM LUDES HITUNGAN JAM.|| AYAM GEPREK PANGGANG KREMES SERBA 10.000! rum ayam kremes - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=uPB32rMZlkA",
+            "visit_count": 0
+         }, {
+            "date_added": "13393522600308884",
+            "date_last_used": "0",
+            "guid": "cc001a8d-6a8e-4f03-97eb-e9b466ca0baa",
+            "id": "24",
+            "name": "Red and White Food Illustrative Group Project Presentation - Presentasi",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAGpYRZ58I0/Kwvt33ZX_UDSkigp86-HRA/edit",
+            "visit_count": 1
+         }, {
+            "date_added": "13405046714948973",
+            "date_last_used": "0",
+            "guid": "c7a5a7ef-310f-464a-9923-2a7748162e12",
+            "id": "9",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13405046714948714",
+            "date_last_used": "0",
+            "guid": "251ef728-e300-4222-af54-28646f7317b2",
+            "id": "8",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13405046714948438",
+            "date_last_used": "0",
+            "guid": "fd688817-6f33-4353-aa16-631e10725d52",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13405046714947742",
+            "date_last_used": "0",
+            "guid": "05a16a06-f98e-450e-81b2-44bd53d90afd",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         } ],
+         "date_added": "13405046714411503",
+         "date_last_used": "0",
+         "date_modified": "13405047527282286",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13405046714411503",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13336288415934019",
+            "date_last_used": "0",
+            "guid": "9e554f84-9782-4deb-b5ca-f1121b1b57fb",
+            "id": "10",
+            "name": "kim deaa - DoodStream",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dood.yt/d/3acm74t787j9",
+            "visit_count": 0
+         }, {
+            "date_added": "13336288572568703",
+            "date_last_used": "0",
+            "guid": "0c88f08d-ce33-4083-89d8-f2040dc65874",
+            "id": "11",
+            "name": "Harus ekstra sabar ngehadapin remaja yang baru puber #wattpad #wattpad... | night of love with you | TikTok",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tiktok.com/@nuiity_/video/7210220488390462746?_t=8aewbuejF5t&_r=1",
+            "visit_count": 0
+         }, {
+            "date_added": "13337247553141482",
+            "date_last_used": "0",
+            "guid": "f8d29b22-6400-4c84-821a-c251f134f1da",
+            "id": "12",
+            "name": "us.iceflix.tv",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://us.iceflix.tv/click/?p=AAAAAAAAAAAK8AIp1sXUXE2Ya6u5efjKqPK7BiGLdNdPZjvXHqTUk50Il1f3QjSibIP3%2FVkyiSjOV3OdUevPzQ1sS5Oa6jIOMzBNB9FUZJzf5LSbYuJQEoNMDqb7UWEwUgYY3iX2yUv%2BKKxoFbsG9unWuJTmSUHBQs6dVMPcuRWMj%2BZ7gb6x0y1eRyRL7LFh6pugNr0H4qXJYbN13xwM4vxhKEL7DvKBBpYijG%2BXF3cUYKVQjkZSIhK1Nwmr%2BtJvJ%2FC9CPhfHV%2Fm2NlgtIbQOzMjVw9%2BC8PHL%2Fxpsx2oXyqyeYG%2FqVNjh1AbmA9BlOUZjivFzMD5RMPanCQV0vr342ghn90ZlsDsfP2SMH71l%2B4smJuhLnLO8o%2B6Byn3ZSfZ8ghowE9S6xO5jzEppd4Z3Y9pJ%2Bkwg1NALSmLN9jMDFLZcD%2BZJ0o9r3U6nI5PBoiaD1l7p11LdkZ6P5PCeeSaE%2FM48X%2BZSWBdFitS4cBc0BIGuKsZyu2%2FnOhBNukkfQvErmflge9a7RggmCzTJpuFaQFzwIjm0lVh7q7THx1LWbMTpdQ1rBiXt4eq6J3yKOv7J5zjYN2ql9delGJ%2F2qnrrzj84CN73IVdqqeVKxacbySa21KsCaJPUgaABzEa28MSdNi54ApLoMTngG39y2816to6TU2VB7e40fspQJdcFOJ6754%2B8GbuJdt88n8NRJ47pNxhUSVO6fu3lmpg10NF5jCZ4RoMPbtYxKoty92%2BfLTk0bPwza410h%2BIc7k7XXvT",
+            "visit_count": 0
+         }, {
+            "date_added": "13337247555386032",
+            "date_last_used": "0",
+            "guid": "f1a1c92f-c719-4768-8418-e27401c73647",
+            "id": "13",
+            "name": "agb99 - Aveli BioLink",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aveli.link/agb99",
+            "visit_count": 0
+         } ],
+         "date_added": "13405046714411503",
+         "date_last_used": "0",
+         "date_modified": "13337247555386032",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCKdnvreZAQAAEgAqGHJzM1pxcmorVXBmelBCTnRRWXB0clE9PUgDoAYHEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDJmNGVjY2JhLTRkNzItNTM2ZC1iNThmLTA5ZGI5YWI3ZjI0MBgAIAAoADCxs9qMty44zuS2q+4vQM7ktqvuL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKsAQgKEqcBChx4aGZldkJTeTdkbHBsTFIxaVZyeW1zNmlnVlE9EiQ5ZTU1NGY4NC05NzgyLTRkZWItYjVjYS1mMTEyMWIxYjU3ZmIYACAAKAAwnb6t8LoxONHcz+e1MUDR3M/ntTFKHGRvUkVpdmFwdnBpeFBmQ0NZMjArbDF4V0hxcz1aHiIcRHc1cGFCVGNxRWtyN1VISUNLcGlQMUtQRThJPWUCEnoGwj4CYAUSrQEIDBKoAQocemF0cGFXRUN5N0U3SWZ5TjBFWFl2VEZySHhRPRIkZjhkMjliMjItNjQwMC00Yzg0LTgyMWEtYzI1MWYxMzRmMWRhGAAgACgAMP3Vz+e1MTjV28/ntTFA1dvP57UxShxITnJxZ0lqVm5odmtYVGMzc05JUndKczdjOHM9Wh8iHbpHYXVoZlVBeU1JMTd5U044TUVPaFFNSytibDA9ZQAAAADCPgJgBRKsAQgLEqcBChxidkdCS2haeTRNYTE2K0hnU0ZiNFBsRDFBY1E9EiQwYzg4ZjA4ZC1jZTMzLTQwODMtODlkOC1mMjA0MGRjNjU4NzQYACAAKAAwnr6t8LoxOIzcz+e1MUCM3M/ntTFKHHAyc0hHUDJmeHh2SHRLbnNDV0kzbjAraVIraz1aHiIcdEZNV0JQcWRPT0VxcmdqdVdwZW02dGlFbjNnPWXwzmzTwj4CYAUSrQEIDRKoAQocNkZ4bkdiSHppMU5BRk13aXFMVFJZbUpZbGo0PRIkZjFhMWM5MmYtYzcxOS00NzY4LTg0MTgtZTI3NDAxYzczNjQ3GAAgACgAMKC+rfC6MTit3M/ntTFArdzP57UxShxBRGJxMUdoRGRHcDZ2WUlVRFZXTnFaSE9CL1E9Wh8iHd1aeTR2RUEycFZhaFVhR1plODJFMDNnUFRXSDA9ZT8SU6rCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRmMDQzYzJlZi1jZTE0LTUyY2EtOWIzZC1kZDg5Njg5MzNjYmIYACAAKAAwrbPajLcuOOHjtqvuL0Dh47ar7i9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEIFRKoAQocbjVuc1A0YnpHd1owOFdQL2czMHZSZFhOYVpRPRIkZDE2NDI4MjMtYWE1OC00ZmRjLTg3NzktZDU5MGYzOWE1NTg3GAAgACgAMKbP+b2bMzj2zc/ntTFA9s3P57UxShxoL056bUJ2K1NUNTVUd3hzUEpzNHRZYVVMems9Wh8iHftNSWxBL2ZpK2JITWROcGhOeUdyTngxWWdkZzQ9ZUP4bYDCPgJgBRKtAQgYEqgBChxtdHdpOUpjSnZJN2VDcnJ4YVFXaktnT080Vk09EiRjYzAwMWE4ZC02YThlLTRmMDMtOTdlYi1lOWI0NjZjYTBiYWEYACAAKAAw0JPH2/MyOJeWx9vzMkCXlsfb8zJKHGtmcUVCSTFsVU53L3lwMjdYSGJKRGdmOFVpTT1aHyId/2F0aDFUWnBIbmhhaWc4THk0MHpwT2JORmF2WT1lXHm6zMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGQ2YThjZjI1LTI0MTQtNTYwMC04NjNkLTJiYzJlMjkxYWI4YhgAIAAoADCss9qMty44wuO2q+4vQMLjtqvuL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKtAQgREqgBChxXUm41RElpM3RvdklwTkQydjVvdkZETFFqQkk9EiQ2N2JjMzkyZi0yNTNkLTQ5MzAtYTc2Yy03MjVjYjUxZTAyNmQYACAAKAAwh9Smg4QwOITVpoOEMECE1aaDhDBKHGt6V1RVaHBjOWQ5SU82ck5EZURscTJpSzl0QT1aHyIdvEVmYzUzSWZpL2hjRHdKMFRsWkVaeEZLV3JlOD1lAAAAAMI+AmAFEqwBCA4SpwEKHFJPTllvUFlnR2FpQlYvaTMxY1hveTFydU5uQT0SJDRjM2U3ZGI0LWQxZDMtNDgxZS1iOGY5LTc5NDhiYzdlOWIwMxgAIAAoADCH1KaDhDA4o9Wmg4QwQKPVpoOEMEocWkZHOHNjdXMvTk15THZBdWdtSldQcDZWQjAwPVoeIhx5OFp0TkhwNHdSYVRRZHRNMHh3eUNlNFZRRzg9ZQAAAADCPgJgABKsAQgPEqcBChxkQXNsY0Z4WkJpTXFBK0FVc0JwazBVTUtLNjA9EiQxNGY5NjRmNC04MDY3LTQ1ZWUtOTFhNy0zZjliYTQ1ZjNjNDUYACAAKAAwh9Smg4QwOMLVpoOEMEDC1aaDhDBKHDZQNWYyYnpyWGdCenMwaGxyZG8zZXBmUDhGWT1aHiIcTWNsSFE5RlpnYmRUbjBYTmNPNjFNeXVkKzh3PWUAAAAAwj4CYAUSrQEIEhKoAQocdkhnQ284dzREbDZUbTlzUXFvWlZuZTZxL0Y0PRIkNjdhZDMxZTYtZThhOC00Njc1LWJmN2QtNGFmNjc3MTNjMzZmGAAgACgAMI3a95fvMji4zs/ntTFAuM7P57UxShxqa2QrWEZzaHlCdGJzV0ozWDVkNUZiVWNvNXM9Wh8iHd50SVdvTXNPTzRmL281SmZscHhabGg0QzBidVU9ZRX0gJjCPgJgBRKsAQgQEqcBChxvei9yN1VUUSsrelFpWGVRSWpaMWtnZXlBbTA9EiQ2NTdjNDk0Mi1kMjZhLTQwMDQtYmYzZC0wYzdkNGE4N2EwMGYYACAAKAAwh9Smg4QwOOLVpoOEMEDi1aaDhDBKHEpRWXJsZ1g2YkFwQUtFemJOekpMUzA5YXNjaz1aHiIccVpmV1dDM2Rsam1CSFRsZGRGYndEYmtZNkpNPWUAAAAAwj4CYAUSrQEIFhKoAQocMXc4cm4xNU11eE8vSllZcVJpb1ZPdkxCZFBjPRIkN2I3OTc3NjItMzYwNS00ZDZhLTk1MGYtN2E0NzVhM2UzMDI0GAAgACgAMOz74taKMzj7zs/ntTFA+87P57UxShxhakwxUkxZTFM5UXZhQWRLd0N1NVI4alBsNHM9Wh8iHf1oZjAzTll3YVVVY0NUSUdtOWNTb3N6SGRtRG89ZUP4bYDCPgJgBRKtAQgTEqgBChxUZWxtS25KYXZDaktEMjBMWUdFc2U2M29Ga1k9EiQ0ODMyM2FjOC0xOGFkLTRkN2EtYTJmNi1hNWNkYjUxZTNhOWQYACAAKAAwj9r3l+8yOJzPz+e1MUCcz8/ntTFKHEV1SjZuQTdLN1hPSkVTUzVBVVhtQ3JGV0JuUT1aHyId72pJYjFYay9JNmxnWmpveEIyV2RFZGhzL3JRMD1le6dAccI+AmAFEq0BCBQSqAEKHG1Ucms5Nlp1dEJZdW04RHBrV2lNTGNqV2hLbz0SJDFmNzU0Y2MyLTIxNWMtNGMxZC04OWQ4LTM4NjYxMzg0ZGE5MBgAIAAoADCM2veX7zI4ls7P57UxQJbOz+e1MUoccEtVaWlkZlhwMWVXNlpFLys1aWhQNmNYQjZFPVofIh33aXFPNUx0TlpBekRUc0w3T3hSMzkrQ0hkaXlFPWWk++iYwj4CYAUSrQEIFxKoAQocWlFhd0ZMNTMyOWFoU21NSHY0ZHI1eXM0OTJVPRIkMGM4YjJkYjctM2VhOS00M2VlLWFjMTAtYmZkMzJkNTgxMDlhGAAgACgAMJDa95fvMjjx3M/ntTFA8dzP57UxShw5eWRZS0wxbGROVzNXUHB5MkhQdW1jemdIQ0U9Wh8iHf5VUzVHbjVLdWRxSjdpand4bkc0RUsrSjBNODg9ZTj5OTPCPgJgBTAAOAA=",
+   "version": 1
+}
